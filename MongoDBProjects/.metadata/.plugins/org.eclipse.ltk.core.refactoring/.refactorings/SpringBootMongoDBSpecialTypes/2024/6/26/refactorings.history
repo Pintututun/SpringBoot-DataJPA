@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nt.runner.SpecialTypesRunner&apos; to &apos;RegisteringEmployeeRunner&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootMongoDBSpecialTypes&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.runner.SpecialTypesRunner&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.runner.RegisteringEmployeeRunner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SpecialTypesRunner&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.runner{SpecialTypesRunner.java[SpecialTypesRunner" matchStrategy="1" name="RegisteringEmployeeRunner" qualified="false" references="true" similarDeclarations="false" stamp="1719123748516" textual="false" version="1.0"/>
+</session>
